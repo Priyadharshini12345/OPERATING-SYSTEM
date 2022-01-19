@@ -1,1 +1,32 @@
 
+The shell scripts that make use of the following:
+
+o Operators - &&, ||
+
+o Test command
+
+o Statements – break and continue
+
+o Arrays
+
+o Functions
+
+o File creation and accessing for read and write
+
+SPOT EXERCISE
+
+Write shell scripts for the following problems:
+
+1. a. Compare two strings S1 and S2. 
+
+b. Compare two strings S1 and S2 using function.
+
+(print 1 – when strings are same, 0 – when strings are different).
+
+Do this for at least 2 pairs of strings.
+
+2. Maintain an array for all week days 
+
+a. Print only the week days – do not use any looping statement
+
+b. Print every alternate day staring from Tuesday.
