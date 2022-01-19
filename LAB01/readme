@@ -1,1 +1,43 @@
+COMMANDS
 
+The listing should include basic commands for
+
+· creating files/directories,
+
+· moving them from one location to another,
+
+· opening/changing them,
+
+· Making copy / renaming
+
+· Deleting files/directories
+
+· Knowing - where are you and who are you
+
+· Searching for files/ directories
+
+· Joining two or more files together
+
+Basic Linux Commands- Spot Exercise
+
+Execute the commands for the following:
+
+1. To know who is logged on to this and other systems.
+
+2. to learn details about a particular command
+
+3. To list the last 6 lines of a file.
+
+4. To delete directories and their contents.
+
+5. To create a blank new file.
+
+6. To display a list of running processes and their resource (CPU) usage.
+
+7. To move a file from your cur-dir to root. Assume that you are in cur-dir directory, which is at level 5 from root directory.
+
+8. To move text information typed in command prompt into a file.
+
+9. To check the connectivity status of a server
+
+10. To change a file’s mode to read, write and executable mode.
