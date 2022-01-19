@@ -1,1 +1,13 @@
+Write C Program for:
 
+File management related – create/delete file…
+
+Information maintenance related- get/set time/date
+
+SPOT EXERCISE
+
+Write C programs for the following problems:
+
+1. Copy the contents of an existing file to another file (check if the destination file already exists, if so get permission to overwrite it from the user, before copying).
+
+2. What will be the date and time after 2 days from now (can assume any valid time or system time for now)?
