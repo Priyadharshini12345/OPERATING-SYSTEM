@@ -1,1 +1,30 @@
 
+Practice #2
+
+· Learn and apply the filters and stream editors : grep, sed, awk
+
+· Shell Programming: Study the structure, constructs and explore the usage of Shell Programming/scripting
+
+filters and stream editors – syntax and usage
+
+· types of Shells supported by Linux
+
+· various sequential, decision making, looping constructs available in the chosen scripting shell
+
+· example code/script for each of the construct
+
+Spot Exercise
+
+1. Create a file called ‘books-authors’ which has title, author name and price of the book - of your 5 favorite books.
+
+a) Display the name of the books those have ‘er’ in their title. (1)
+
+b) Find the average price of the books using awk. (1)
+
+2. Write a shell script that reads n students marks of a class; computes the class average and fixes the grade of the students by following the criteria given below: (3)
+
+Student's mark > class average => A
+
+Student's mark = class average => B
+
+Student's mark < class average => C
