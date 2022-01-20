@@ -1,1 +1,21 @@
 
+· Learn and apply the functions related to create and access Shared memory, to demonstrate the Inter-Process communication concept – using C Program(s)
+
+· Explore functions for ( check for the return status of each of the functions)
+
+· To create a shared memory segment
+
+· To generate a unique key to access shared memory segment
+
+· To attach, detach and exit from shared memory.
+SPOT EXERCISE
+
+Write a program to demonstrate the following problem scenario:
+
+· Your product will sit on a container: this will be a shared memory segment that contains an integer, a count of the items "on the container ". This integer may never drop below 0 or rise above MAX. (Read MAX from user / Predefine )
+
+· Your producer creates the shared memory segment and sets the value of the count to MAX. It is the producer program's responsibility to stock product on the container, but not overstocked. The producer may add one item to the container at a time, and must report to STDOUT every time another item is added as well as the current container count.
+
+· Your consumer will remove one item from the container at a time, provided the item count has not dropped below zero. The consumer will decrement the counter and report the new value to STDOUT. The consumer should report the admin, on each trip to the container, in which there are no items.
+
+· Your program must work with multiple consumers: The item count should not fall below 0 or rise above MAX when there are several consumers and one producer.
