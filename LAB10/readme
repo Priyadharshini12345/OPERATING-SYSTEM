@@ -1,1 +1,16 @@
 
+Write programs to demonstrate the solution to any two process synchronization problems – use semaphores.
+
+SPOT EXERCISE
+
+Write a program to demonstrate the solution for the following problem scenario.
+
+Note: use semaphore(s) for process synchronization.
+
+· Your product will sit on a container: this will be a shared memory segment that contains an integer, a count of the items "on the container ". This integer may never drop below 0 or rise above MAX. (Read MAX from user / Predefine )
+
+· Your producer creates the shared memory segment and sets the value of the count to MAX. It is the producer program's responsibility to stock product on the container, but not overstocked. The producer may add one item to the container at a time, and must report to STDOUT every time another item is added as well as the current container count.
+
+· Your consumer will remove one item from the container at a time, provided the item count has not dropped below zero. The consumer will decrement the counter and report the new value to STDOUT. The consumer should report the admin, on each trip to the container, in which there are no items.
+
+· Your program may work with multiple consumers (optional): The item count should not fall below 0 or rise above MAX when there are several consumers and one producer.
