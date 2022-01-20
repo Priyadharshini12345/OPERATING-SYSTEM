@@ -1,1 +1,9 @@
+1.Implementation of Page replacement algorithms: FIFO, Optimal & LRU
 
+2.Implement a single or 3 different program(s)  to find the number of page faults occur for the following reference string: 1,2,4,5,3,4,1,3,6,7,8,7,8,8,9,5,4,5,4,2 for three, four and five page frames?  Also say whether your program encounter 'Belady's anamoly' for the given scenario. 
+
+FIFO 
+
+LRU 
+
+Optimal 
