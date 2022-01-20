@@ -1,1 +1,36 @@
 
+Learn and apply the functions related to Pipes (and Named pipes) in C Programs to demonstrate the Inter-Process communication concept.
+
+· Explore functions for ( check for return status of each of the functions)
+
+· Pipe(s) creation
+
+· Messages send and receive
+
+· Messages send and receive using 2-way pipes.
+
+· Closing pipe-ends
+
+SPOT EXERCISE
+
+1. Create a data file "OS-Spot". Store the lab assess marks and other details of five students as given below:
+
+Reg. no. Name Marks
+
+1021 Hema 97
+
+1025 Chitra 99
+
+1027 Mala 100
+
+1028 Karthika 100
+
+1029 Jay 100
+
+Using the file "OS-Spot”, perform the following tasks in a single C program:
+
+1.1. Parent process prints the file contents with name in alphabetical order. 
+
+1.2. Parent sends the file to child process through a pipe. 
+
+1.3. Child process prints only the Reg.no. and Marks of the students. 
