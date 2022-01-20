@@ -1,1 +1,6 @@
 
+SPOT EXERCISE
+
+Do the following modifications in the programs which you have implemented for SJF(preemtive/[nonpreemtive]) and Priority CPU SAs
+Compute the Avg WT and TAT if the CPU is left idle first 1 unit.
+Compute the Avg WT and TAT if the context switch time - 1 unit is also considered by the scheduler. 
