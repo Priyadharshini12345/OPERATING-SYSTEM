@@ -1,1 +1,15 @@
 
+Learn and apply in C Programs the following system calls (Directory related) 
+· opendir(), closedir() 
+· readdir_r(), readdir64_r() 
+· lstat(), lstat64() 
+·rewinddir() seekdir() 
+· ftw(), ftw64(), telldir() 
+· stat(), stat64() 
+· dircntl(); dirent; dirent64; errno
+
+SPOT EXERCISE
+
+1. List all files and subdirectories that start with “ex” or “EX” for the user given directory name 
+
+2. Demonstrate the difference between lstat() and fstat()
