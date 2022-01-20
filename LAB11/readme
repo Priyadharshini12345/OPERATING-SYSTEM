@@ -1,2 +1,7 @@
 
+CPU SCHEDULING ALGORITHMS
+
+Mention the principle of non-preemptive CPU algorithms. 
+List them.
+Give programming example of each. Consider the processes arrive at different time points.  
 Give proper input and output to demonstrate the working of the algorithms . Also show the avg waiting time and average turn-around time of the processes.
