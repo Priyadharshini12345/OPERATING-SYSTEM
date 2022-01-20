@@ -1,1 +1,13 @@
+Write programs demonstrating the use of the fork, clone, exec and its variants , wait ,exit system calls
 
+SPOT EXERCISE
+
+1. Demonstrate with a single C program with appropriate messages, the difference between cloned process and forked process. 
+
+2. Write a C program to 
+
+a. View the list of programs in current working directory (By the child process) - use appropriate exec variant.
+
+b. Display the date. (By the parent process)
+
+c. Also print the ids of parent and child processes using the respective functions.
